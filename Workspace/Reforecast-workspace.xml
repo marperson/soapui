@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="CPS" soapui-version="5.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project type="REMOTE" status="CLOSED" name="my test">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/MyTests.xml</con:project>
+  <con:project name="0020_WFS.014_Managers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/014_Managers.xml</con:project>
+  <con:project name="0010_WTK.001_LaborLevel">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/001_LaborLevel.xml</con:project>
+</con:soapui-workspace>

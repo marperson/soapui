@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="0020_WFS_ExpressSetup" soapui-version="5.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="0020_WFS.003_Create_WFS_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/003_Create_WFS_SuperUsers.xml</con:project>
+  <con:project name="0020_WFS.004_Create _EOU_nav">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/004_Create_EOU_nav.xml</con:project>
+  <con:project name="0020_WFS.005_Skill_Certification">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/005_Skill_Cert.xml</con:project>
+  <con:project name="0020_WFS.006_Schedule_Rules">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/006_Schedule_Rules.xml</con:project>
+  <con:project name="0020_WFS.007_Templates">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/007_Templates.xml</con:project>
+  <con:project name="0020_WFS.008_DAPs">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/008_DAPs.xml</con:project>
+  <con:project name="0020_WFS.009_WorkLoad">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/009_WorkLoad.xml</con:project>
+  <con:project name="0020_WFS.011_NotificationProfiles">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/011_NotificationProfiles.xml</con:project>
+  <con:project name="0020_WFS.014_Managers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/014_Managers.xml</con:project>
+  <con:project name="0020_WFS.015_Employees">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/015_Employees.xml</con:project>
+  <con:project name="0020_WFS.019_Schedule_Items">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0020_WFS/019_Schedule_Items.xml</con:project>
+</con:soapui-workspace>

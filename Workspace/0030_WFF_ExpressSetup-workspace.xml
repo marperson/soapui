@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="0030_WFF_ExpressSetup" soapui-version="5.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="0030_WFF.001_Create_WFF_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/001_Create_WFF_SuperUsers.xml</con:project>
+  <con:project name="0030_WFF.002_VolumeDrivers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/002_VolumeDrivers.xml</con:project>
+  <con:project name="0030_WFF.003_ForecastMap">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/003_ForecastMap.xml</con:project>
+  <con:project name="0030_WFF.004_ForecastMapProfiles">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/004_ForecastMapProfiles.xml</con:project>
+  <con:project name="0030_WFF.005_CategoryPropertySet">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/005_CategoryPropertySet.xml</con:project>
+  <con:project name="0030_WFF.006_POSDataImport">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/006_POSDataImport.xml</con:project>
+  <con:project name="0030_WFF.007_Create_ReforecastingThresholdSet">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/007_Create_ReforecastingThresholdSet.xml</con:project>
+  <con:project name="0030_WFF.008_Create_GenericNotification">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/008_Create_GenericNotification.xml</con:project>
+  <con:project name="0030_WFF.009_AssignForecastMapToOrgMap">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/009_AssignForecastMapToOrgMap.xml</con:project>
+  <con:project name="0030_WFF.010_Create_LaborStandard_Task_TaskGroup">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/010_Create_LaborStandard_Task_TaskGroup.xml</con:project>
+  <con:project name="0030_WFF.012_SpecialEvent">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/012_SpecialEvent.xml</con:project>
+  <con:project name="0030_WFF.011_Create_HourOfOperation">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/011_Create_HourOfOperation.xml</con:project>
+  <con:project name="0030_WFF.013_NGUI_Setup">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/013_NGUI_Setup.xml</con:project>
+  <con:project name="0030_WFF.014_UpdateFAP">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/014_UpdateFAPs.xml</con:project>
+  <con:project status="CLOSED" name="0030_WFF.015_BatchPollingTime_Setting">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/015_BatchPollingTime_Setting.xml</con:project>
+</con:soapui-workspace>

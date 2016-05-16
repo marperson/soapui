@@ -1,0 +1,8 @@
+DEFAULT_DBSERVER_NAME=kvh-ca-qmwfcdb5
+DEFAULT_DB_USERNAME=linux
+DEFAULT_DB_PASSWORD=linux
+DEFAULT_DB_OR_SID_NAME=ora11gr2
+DEFAULT_DBPORT=1521
+DEFAULT_CONNECTION_DRIVER=oracle.jdbc.driver.OracleDriver
+CONNECTION_STRING=jdbc:oracle:thin:${#Project#DEFAULT_DB_USERNAME}/${#Project#DEFAULT_DB_PASSWORD}@${#Project#DEFAULT_DBSERVER_NAME}:${#Project#DEFAULT_DBPORT}:${#Project#DEFAULT_DB_OR_SID_NAME}
+wfcXMLServiceURL=http://sit-lx-80.int.kronos.com/wfc/XmlService

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="ExpressSetup" soapui-version="4.6.3" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="0010_WTK.001_LaborLevel">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/001_LaborLevel.xml</con:project>
+  <con:project name="0010_WTK.002_OrgMap">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/002_OrgMap.xml</con:project>
+  <con:project name="0010_WTK.003_PayCodeEdit">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/003_PayCodeEdit.xml</con:project>
+  <con:project name="0010_WTK.004_Accruals">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/004_Accruals.xml</con:project>
+  <con:project name="0010_WTK.007_Create_WTK_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/007_Create_WTK_SuperUsers.xml</con:project>
+  <con:project name="0010_WTK.006_PayRules">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/006_PayRules.xml</con:project>
+  <con:project name="0010_WTK.005_Comments">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/005_Comments.xml</con:project>
+  <con:project name="0010_WTK.008_AutoComplete_Setting">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0010_WTK/008_AutoComplete_Setting.xml</con:project>
+  <con:project name="0020_WFS.003_Create_WFS_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/003_Create_WFS_SuperUsers.xml</con:project>
+  <con:project name="0020_WFS.004_Create _EOU_nav">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/004_Create_EOU_nav.xml</con:project>
+  <con:project name="0020_WFS.005_Skill_Certification">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/005_Skill_Cert.xml</con:project>
+  <con:project name="0020_WFS.006_Schedule_Rules">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/006_Schedule_Rules.xml</con:project>
+  <con:project name="0020_WFS.007_Templates">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/007_Templates.xml</con:project>
+  <con:project name="0020_WFS.008_DAPs">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/008_DAPs.xml</con:project>
+  <con:project name="0020_WFS.009_WorkLoad">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/009_WorkLoad.xml</con:project>
+  <con:project name="0020_WFS.001_FAP">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/0010_FAPs.xml</con:project>
+  <con:project name="0020_WFS.014_Managers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/014_Managers.xml</con:project>
+  <con:project name="0020_WFS.015_Employees">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/015_Employees.xml</con:project>
+  <con:project name="0020_WFS.019_Schedule_Items">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0020_WFS/019_Schedule_Items.xml</con:project>
+  <con:project name="0030_WFF.001_Create_WFF_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/001_Create_WFF_SuperUsers.xml</con:project>
+  <con:project name="0030_WFF.002_VolumeDrivers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/002_VolumeDrivers.xml</con:project>
+  <con:project name="0030_WFF.003_ForecastMap">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/003_ForecastMap.xml</con:project>
+  <con:project name="0030_WFF.004_ForecastMapProfiles">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/004_ForecastMapProfiles.xml</con:project>
+  <con:project name="0030_WFF.005_CategoryPropertySet">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/005_CategoryPropertySet.xml</con:project>
+  <con:project name="0030_WFF.006_POSDataImport">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/006_POSDataImport.xml</con:project>
+  <con:project name="0030_WFF.007_Create_ReforecastingThresholdSet">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/007_Create_ReforecastingThresholdSet.xml</con:project>
+  <con:project name="0030_WFF.008_Create_GenericNotification">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/008_Create_GenericNotification.xml</con:project>
+  <con:project name="0030_WFF.009_AssignForecastMapToOrgMap">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/009_AssignForecastMapToOrgMap.xml</con:project>
+  <con:project name="0030_WFF.010_Create_LaborStandard_Task_TaskGroup">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/010_Create_LaborStandard_Task_TaskGroup.xml</con:project>
+  <con:project name="0030_WFF.011_Create_HourOfOperation">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/011_Create_HourOfOperation.xml</con:project>
+  <con:project status="CLOSED" name="Holiday3">C:/Users/frank.he/Desktop/Services.HolidayService.rest.xml</con:project>
+  <con:project name="0030_WFF.012_SpecialEvent">C:/wkspaces/wtktest.08.00.qa.int.sched.wff2/test/SoapUI/tests/ExpressSetup/0030_WFF/012_SpecialEvent.xml</con:project>
+  <con:project name="services.employeeSchedulePattern.rest">C:/Users/frank.he/Desktop/services.employeeSchedulePattern.rest.xml</con:project>
+</con:soapui-workspace>

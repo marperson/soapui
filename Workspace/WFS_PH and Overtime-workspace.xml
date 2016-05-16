@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="004_RetrieveOvertimeHours" soapui-version="5.1.1" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="POS Data Import - For Product Eval">C:/Users/frank.he/Desktop/POS Data Import - For Product Eval.xml</con:project>
+  <con:project name="0010_WTK.007_Create_WTK_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.schedrules/test/SoapUI/tests/ExpressSetup/0010_WTK/007_Create_WTK_SuperUsers.xml</con:project>
+  <con:project name="001_Projected Hours">C:/Users/frank.he/Desktop/001_ProjectedHours.xml</con:project>
+  <con:project name="004_RetrieveOvertimeHours">C:/wkspaces/wtktest.08.00.qa.int.sched.schedrules/test/SoapUI/tests/WFS_SchedRules/004_RetrieveOvertimeHours.xml</con:project>
+  <con:project name="003_Overtime Rule - Employee Rule Set">C:/wkspaces/wtktest.08.00.qa.int.sched.schedrules/test/SoapUI/tests/WFS_SchedRules/003_Overtime Rule.xml</con:project>
+  <con:project name="0010_WTK.013_Create_Schedule_Items">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/013_Create_Schedule_Items.xml</con:project>
+  <con:project name="WFS-Test">C:/Users/frank.he/Desktop/Guided_Recommandation/WFS-Test.xml</con:project>
+  <con:project name="005_AlertDetection">C:/wkspaces/005_AlertDetection.xml</con:project>
+</con:soapui-workspace>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Consolidation" soapui-version="5.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="001_ReforecastingCPS">C:/wkspaces/wtktest.08.00.qa.int.sched3/test/SoapUI/tests/WFF_Reforecasting/0010_CategoryPropertySet/001_ReforecastingCPS.xml</con:project>
+  <con:project name="002_TrendForecastAlertThreshold">C:/wkspaces/wtktest.08.00.qa.int.sched3/test/SoapUI/tests/WFF_Reforecasting/0020_ReforecastingThreshold/002_ReforecastingAlertThreshold.xml</con:project>
+  <con:project name="005_AlertDetection">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/005_AlertDetection.xml</con:project>
+  <con:project name="006_VolumeReforecastingWithEvents">C:/wkspaces/wtktest.08.00.qa.int.sched3/test/SoapUI/tests/WFF_Reforecasting/006_VolumeReforecastingWithEvents.xml</con:project>
+  <con:project name="007_TrafficPattern">C:/wkspaces/wtktest.08.00.qa.int.sched3/test/SoapUI/tests/WFF_Reforecasting/007_TrafficPattern.xml</con:project>
+  <con:project name="008_RunEnginesThroughBatchProcess">C:/wkspaces/wtktest.08.00.qa.int.sched3/test/SoapUI/tests/WFF_Reforecasting/008_RunEnginesThroughBatchProcess.xml</con:project>
+  <con:project name="009_ImportVolumeAsOriginal">C:/wkspaces/wtktest.08.00.qa.int.sched3/test/SoapUI/tests/WFF_Reforecasting/009_ImportVolumeAsOriginal.xml</con:project>
+  <con:project name="003_VolumeReforecasting_LinuxWithDelay">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/003_VolumeReforecasting_LinuxWithDelay.xml</con:project>
+  <con:project name="003_VolumeReforecasting">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/003_VolumeReforecasting.xml</con:project>
+  <con:project name="004_LaborReforecasting_LinuxWithDelay">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/004_LaborReforecasting_LinuxWithDelay.xml</con:project>
+  <con:project name="004_LaborReforecasting">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/004_LaborReforecasting.xml</con:project>
+  <con:project name="my test">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/MyTests.xml</con:project>
+  <con:project name="008_AlertDetectionWeekToDate">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/WFF_Reforecasting/008_AlertDetectionWeekToDate.xml</con:project>
+  <con:project name="0030_WFF.006_POSDataImport">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0030_WFF/006_POSDataImport.xml</con:project>
+</con:soapui-workspace>

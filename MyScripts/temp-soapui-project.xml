@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project activeEnvironment="Default" name="TestGroovy" resourceRoot="${projectDir}" soapui-version="5.0.0" scriptLibrary="C:\workspaces\wtktest.08.00.qa.int.sched.wff_KDT-CA-TJOHNST2\test\SoapUI\tests\KronosSoapUILib" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:testSuite name="TestSuite 1">
+    <con:settings/>
+    <con:runType>SEQUENTIAL</con:runType>
+    <con:testCase failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="TestCase 1" searchProperties="true" id="e56ad213-c755-4d84-899a-c2dbee9c2d5d">
+      <con:settings/>
+      <con:testStep type="httprequest" name="SendReq">
+        <con:settings/>
+        <con:config method="POST" xsi:type="con:HttpRequest" name="SendReq" postQueryString="false" mediaType="application/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:settings>
+            <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
+          </con:settings>
+          <con:endpoint>http://kvh-ca-qmwfc106/wfc/XmlService</con:endpoint>
+          <con:request><![CDATA[<Kronos_WFC version="1.0">
+    <Request object="SYSTEM" Action="LOGON" UserName="SuperUser" password="kronites"/>
+
+<Request Action="RetrieveAllNames">
+	<SchedulePattern />
+</Request>
+	 
+	<Request Object="System" Action="Logoff"/>
+</Kronos_WFC>]]></con:request>
+          <con:credentials>
+            <con:authType>Global HTTP Settings</con:authType>
+          </con:credentials>
+          <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
+          <con:jmsPropertyConfig/>
+          <con:parameters/>
+        </con:config>
+      </con:testStep>
+      <con:testStep type="groovy" name="Groovy Script2" id="6b59c34b-de2d-460f-88b3-3a79c61b659c">
+        <con:settings/>
+        <con:config>
+          <script>//kronos.soapui.XpathHelper.xpathUntilSuccess(testRunner, log, "SendReq", "//Response/@Status != 'Success'", 1000, 2)
+kronos.soapui.Xpath.notXpathUntilSuccess(testRunner, log, "SendReq", "//Response/@Status != 'Success'", 1000, 2)</script>
+        </con:config>
+      </con:testStep>
+      <con:properties/>
+      <con:reportParameters/>
+      <con:breakPoints>
+        <con:testStepId>6b59c34b-de2d-460f-88b3-3a79c61b659c</con:testStepId>
+        <con:status>NONE</con:status>
+        <con:properties/>
+      </con:breakPoints>
+    </con:testCase>
+    <con:properties/>
+    <con:reportParameters/>
+  </con:testSuite>
+  <con:requirements/>
+  <con:properties/>
+  <con:wssContainer/>
+  <con:databaseConnectionContainer/>
+  <con:oAuth2ProfileContainer/>
+  <con:reporting>
+    <con:xmlTemplates/>
+    <con:parameters/>
+  </con:reporting>
+  <con:sensitiveInformation/>
+</con:soapui-project>

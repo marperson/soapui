@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="WTK_ExpressSetup" soapui-version="5.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="0010_WTK.001_LaborLevel">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/001_LaborLevel.xml</con:project>
+  <con:project name="0010_WTK.002_OrgMap">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/002_OrgMap.xml</con:project>
+  <con:project name="0010_WTK.003_PayCodeEdit">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/003_PayCodeEdit.xml</con:project>
+  <con:project name="0010_WTK.004_Accruals">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/004_Accruals.xml</con:project>
+  <con:project name="0010_WTK.005_Comments">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/005_Comments.xml</con:project>
+  <con:project name="0010_WTK.006_PayRules">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/006_PayRules.xml</con:project>
+  <con:project name="0010_WTK.007_Create_WTK_SuperUsers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/007_Create_WTK_SuperUsers.xml</con:project>
+  <con:project name="0010_WTK.008_AutoComplete_Setting">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/008_AutoComplete_Setting.xml</con:project>
+  <con:project name="0010_WTK.009a_Create_DAPs">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/009a_Create_DAPs.xml</con:project>
+  <con:project name="0010_WTK.009b_Create_FAPs">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/009b_Create_FAPs.xml</con:project>
+  <con:project name="0010_WTK.009c_Create_EOU">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/009c_Create_EOU.xml</con:project>
+  <con:project name="0010_WTK.009d_Create_WTK_EmployeesAndManagers">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/009d_Create_WTK_EmployeesAndManagers.xml</con:project>
+  <con:project name="0010_WTK.013_Create_Schedule_Items">C:/wkspaces/wtktest.08.00.qa.int.sched.wff3/test/SoapUI/tests/ExpressSetup/0010_WTK/013_Create_Schedule_Items.xml</con:project>
+</con:soapui-workspace>
